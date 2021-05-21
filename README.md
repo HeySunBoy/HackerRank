@@ -12,7 +12,7 @@ Hope I will done it.
 <a target="_blank" href="https://www.hackerrank.com/challenges/30-hello-world/problem">Day 0: Hello, World.</a>
 </td>
 <td>
-<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%201%20-%20Data%20Types">µ{¶°ΩX</a>
+<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%201%20-%20Data%20Types">Á®ãÂºèÁ¢º</a>
 </td>
 </tr>
 <tr>
@@ -20,7 +20,7 @@ Hope I will done it.
 <a target="_blank" href="https://www.hackerrank.com/challenges/30-data-types/problem">Day 1: Data Types</a>
 </td>
 <td>
-<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%202%20-%20Operators">µ{¶°ΩX</a>
+<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%202%20-%20Operators">Á®ãÂºèÁ¢º</a>
 </td>
 </tr>
 <tr>
@@ -28,7 +28,7 @@ Hope I will done it.
 <a target="_blank" href="https://www.hackerrank.com/challenges/30-operators/problem">Day 2: Operators</a>
 </td>
 <td>
-<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%203%20-%20Intro%20to%20Conditional%20Statements">µ{¶°ΩX</a>
+<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%203%20-%20Intro%20to%20Conditional%20Statements">Á®ãÂºèÁ¢º</a>
 </td>
 </tr>
 </tbody>
