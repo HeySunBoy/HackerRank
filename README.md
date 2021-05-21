@@ -1,5 +1,9 @@
 # HackerRank
 This is recording about my solution in HackerRank which an online judge system
+
+At 2021/05/19, I start HackerRan "30 Days of Code".
+
+Hope I will done it.
 <br />
 <table>
 <tbody>
@@ -8,7 +12,7 @@ This is recording about my solution in HackerRank which an online judge system
 <a target="_blank" href="https://www.hackerrank.com/challenges/30-hello-world/problem">Day 0: Hello, World.</a>
 </td>
 <td>
-<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%201%20-%20Data%20Types">Á®ãÂºèÁ¢º</a>
+<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%201%20-%20Data%20Types">µ{¶°ΩX</a>
 </td>
 </tr>
 <tr>
@@ -16,7 +20,7 @@ This is recording about my solution in HackerRank which an online judge system
 <a target="_blank" href="https://www.hackerrank.com/challenges/30-data-types/problem">Day 1: Data Types</a>
 </td>
 <td>
-<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%202%20-%20Operators">Á®ãÂºèÁ¢º</a>
+<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%202%20-%20Operators">µ{¶°ΩX</a>
 </td>
 </tr>
 <tr>
@@ -24,7 +28,7 @@ This is recording about my solution in HackerRank which an online judge system
 <a target="_blank" href="https://www.hackerrank.com/challenges/30-operators/problem">Day 2: Operators</a>
 </td>
 <td>
-<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%203%20-%20Intro%20to%20Conditional%20Statements">Á®ãÂºèÁ¢º</a>
+<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%203%20-%20Intro%20to%20Conditional%20Statements">µ{¶°ΩX</a>
 </td>
 </tr>
 </tbody>
