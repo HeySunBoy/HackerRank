@@ -14,6 +14,8 @@ Hope I will done it.
       <td>
         <a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%200%20-%20Hello%2C%20World">程式碼</a>
       </td>
+	  <td>
+	  </td>
     </tr>
     <tr>
       <td>
@@ -22,6 +24,8 @@ Hope I will done it.
       <td>
         <a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%201%20-%20Data%20Types">程式碼</a>
       </td>
+	  <td>
+	  </td>
     </tr>
     <tr>
       <td>
@@ -30,6 +34,8 @@ Hope I will done it.
       <td>
         <a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%202%20-%20Operators">程式碼</a>
       </td>
+	  <td>
+	  </td>
     </tr>
     <tr>
       <td>
@@ -46,6 +52,9 @@ Hope I will done it.
       <td>
         <a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%204%20-%20Class%20vs.%20Instance">程式碼</a>
       </td>
+	  <td>
+	  物件導向基礎概念
+	  </td>
     </tr>
   </tbody>
 </table>
