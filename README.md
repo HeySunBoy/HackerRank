@@ -58,5 +58,16 @@ Hope I will done it.
 				物件導向基礎概念
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a target="_blank" href="https://www.hackerrank.com/challenges/30-loops/problem">Day 5: Loops</a>
+			</td>
+			<td>
+				<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%205%20-%20Loops">程式碼</a>
+			</td>
+			<td>
+				迴圈
+			</td>
+		</tr>
 	</tbody>
 </table>
