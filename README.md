@@ -69,5 +69,16 @@ Hope I will done it.
 				迴圈
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a target="_blank" href="https://www.hackerrank.com/challenges/30-review-loop/problem">Day 6: Let's Review</a>
+			</td>
+			<td>
+				<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%206%20-%20Let's%20Review">程式碼</a>
+			</td>
+			<td>
+				迴圈 + 字串處理
+			</td>
+		</tr>
 	</tbody>
 </table>
