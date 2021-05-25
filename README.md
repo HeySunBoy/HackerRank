@@ -80,5 +80,16 @@ Hope I will done it.
 				迴圈 + 字串處理
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a target="_blank" href="https://www.hackerrank.com/challenges/30-arrays/problem">Day 7: Arrays</a>
+			</td>
+			<td>
+				<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%207%20-%20Arrays">程式碼</a>
+			</td>
+			<td>
+				陣列反轉
+			</td>
+		</tr>
 	</tbody>
 </table>
