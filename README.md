@@ -91,5 +91,16 @@ Hope I will done it.
 				陣列反轉
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a target="_blank" href="https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem">Day 8: Dictionaries and Maps</a>
+			</td>
+			<td>
+				<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%208%20-%20Dictionaries%20and%20Maps">程式碼</a>
+			</td>
+			<td>
+				Dictionary、Map(關聯容器)
+			</td>
+		</tr>
 	</tbody>
 </table>
