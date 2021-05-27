@@ -102,5 +102,16 @@ Hope I will done it.
 				Dictionary、Map(關聯容器)
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a target="_blank" href="https://www.hackerrank.com/challenges/30-recursion/problem">Day 9: Recursion 3</a>
+			</td>
+			<td>
+				<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%209%20-%20Recursion%203">程式碼</a>
+			</td>
+			<td>
+				遞迴
+			</td>
+		</tr>
 	</tbody>
 </table>
