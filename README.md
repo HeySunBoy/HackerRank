@@ -113,5 +113,27 @@ Hope I will done it.
 				遞迴
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a target="_blank" href="https://www.hackerrank.com/challenges/30-binary-numbers/problem">Day 10: Binary Numbers</a>
+			</td>
+			<td>
+				<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%2010%20-%20Binary%20Numbers">程式碼</a>
+			</td>
+			<td>
+				迴圈			
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a target="_blank" href="https://www.hackerrank.com/challenges/30-2d-arrays/problem">Day 11: 2D Arrays</a>
+			</td>
+			<td>
+				<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%2011%20-%202D%20Arrays">程式碼</a>
+			</td>
+			<td>
+				迴圈			
+			</td>
+		</tr>
 	</tbody>
 </table>
