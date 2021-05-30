@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 9 - Recursion 3", "Day 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 10 - Binary Numbers", "Day 10 - Binary Numbers\Day 10 - Binary Numbers.csproj", "{216C0436-32EC-42E3-8C04-15EE0FD722D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 11 - 2D Arrays", "Day 11 - 2D Arrays\Day 11 - 2D Arrays.csproj", "{E0622943-FCE2-4246-A63C-8E3E7D777F26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 11 - 2D Arrays", "Day 11 - 2D Arrays\Day 11 - 2D Arrays.csproj", "{E0622943-FCE2-4246-A63C-8E3E7D777F26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 12 - Inheritance", "Day 12 - Inheritance\Day 12 - Inheritance.csproj", "{7A9449AB-F2BC-47E8-81D6-752EB24BF82A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{E0622943-FCE2-4246-A63C-8E3E7D777F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0622943-FCE2-4246-A63C-8E3E7D777F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0622943-FCE2-4246-A63C-8E3E7D777F26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A9449AB-F2BC-47E8-81D6-752EB24BF82A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A9449AB-F2BC-47E8-81D6-752EB24BF82A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A9449AB-F2BC-47E8-81D6-752EB24BF82A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A9449AB-F2BC-47E8-81D6-752EB24BF82A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
