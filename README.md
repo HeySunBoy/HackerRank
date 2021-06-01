@@ -157,5 +157,16 @@ Hope I will done it.
 				抽象類別
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a target="_blank" href="https://www.hackerrank.com/challenges/30-scope/problem">Day 14: Scope</a>
+			</td>
+			<td>
+				<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%2014%20-%20Broaden%20your%20Scope">程式碼</a>
+			</td>
+			<td>
+				抽象類別
+			</td>
+		</tr>
 	</tbody>
 </table>
