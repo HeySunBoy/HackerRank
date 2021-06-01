@@ -165,7 +165,7 @@ Hope I will done it.
 				<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%2014%20-%20Broaden%20your%20Scope">程式碼</a>
 			</td>
 			<td>
-				抽象類別
+				物件導向、絕對值
 			</td>
 		</tr>
 	</tbody>
