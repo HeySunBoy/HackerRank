@@ -14,17 +14,8 @@ class Difference
 
     public void computeDifference()
     {
-        for (int i = 0; i < elements.Length; i++)
-        {
-            for (int j = i + 1; j < elements.Length; j++)
-            {
-                int absolute_difference = Math.Abs(elements[i] - elements[j]);
-                if (absolute_difference > maximumDifference)
-                {
-                    maximumDifference = absolute_difference;
-                }
-            }
-        }
+        elements = elements.OrderBy(o => o).ToArray();
+        maximumDifference = Math.Abs(elements.First() - elements.Last());
     }
 
 } // End of Difference Class
