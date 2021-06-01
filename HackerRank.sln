@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 11 - 2D Arrays", "Day 1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 12 - Inheritance", "Day 12 - Inheritance\Day 12 - Inheritance.csproj", "{7A9449AB-F2BC-47E8-81D6-752EB24BF82A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 13 - Abstract Classes", "Day 13 - Abstract Classes\Day 13 - Abstract Classes.csproj", "{AC5B38B6-1C54-46CC-89D6-5A38BBBD2A06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 13 - Abstract Classes", "Day 13 - Abstract Classes\Day 13 - Abstract Classes.csproj", "{AC5B38B6-1C54-46CC-89D6-5A38BBBD2A06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 14 - Broaden your Scope", "Day 14 - Broaden your Scope\Day 14 - Broaden your Scope.csproj", "{B2705C80-CD1C-4548-8EBF-6733B6F83323}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{AC5B38B6-1C54-46CC-89D6-5A38BBBD2A06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC5B38B6-1C54-46CC-89D6-5A38BBBD2A06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC5B38B6-1C54-46CC-89D6-5A38BBBD2A06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2705C80-CD1C-4548-8EBF-6733B6F83323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2705C80-CD1C-4548-8EBF-6733B6F83323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2705C80-CD1C-4548-8EBF-6733B6F83323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2705C80-CD1C-4548-8EBF-6733B6F83323}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
