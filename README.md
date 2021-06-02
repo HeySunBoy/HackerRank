@@ -168,5 +168,16 @@ Hope I will done it.
 				物件導向、絕對值
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a target="_blank" href="https://www.hackerrank.com/challenges/30-linked-list/problem">Day 15: Linked List</a>
+			</td>
+			<td>
+				<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%2015%20-%20Linked%20List">程式碼</a>
+			</td>
+			<td>
+				實作Linked List
+			</td>
+		</tr>
 	</tbody>
 </table>
