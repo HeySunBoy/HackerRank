@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 13 - Abstract Classes",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 14 - Broaden your Scope", "Day 14 - Broaden your Scope\Day 14 - Broaden your Scope.csproj", "{B2705C80-CD1C-4548-8EBF-6733B6F83323}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 15 - Linked List", "Day 15 - Linked List\Day 15 - Linked List.csproj", "{107E0E05-9349-40C8-AE8B-AC2BC5EABE59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 15 - Linked List", "Day 15 - Linked List\Day 15 - Linked List.csproj", "{107E0E05-9349-40C8-AE8B-AC2BC5EABE59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 16 - Exceptions - String to Integer", "Day 16 - Exceptions - String to Integer\Day 16 - Exceptions - String to Integer.csproj", "{8FAFDEDB-BDF3-49EE-93EC-13EAFF42BD1D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{107E0E05-9349-40C8-AE8B-AC2BC5EABE59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{107E0E05-9349-40C8-AE8B-AC2BC5EABE59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{107E0E05-9349-40C8-AE8B-AC2BC5EABE59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FAFDEDB-BDF3-49EE-93EC-13EAFF42BD1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FAFDEDB-BDF3-49EE-93EC-13EAFF42BD1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FAFDEDB-BDF3-49EE-93EC-13EAFF42BD1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FAFDEDB-BDF3-49EE-93EC-13EAFF42BD1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
