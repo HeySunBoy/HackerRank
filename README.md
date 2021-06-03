@@ -187,7 +187,7 @@ Hope I will done it.
 				<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%2016%20-%20Exceptions%20-%20String%20to%20Integer">程式碼</a>
 			</td>
 			<td>
-				實作Linked List
+				例外處理(try catch)
 			</td>
 		</tr>
 	</tbody>
