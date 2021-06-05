@@ -209,7 +209,7 @@ Hope I will done it.
 				<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%2018%20-%20Queues%20and%20Stacks">程式碼</a>
 			</td>
 			<td>
-				例外處理(Throw) 
+				Stack(後進先出)、Queue(先進先出)
 			</td>
 		</tr>
 	</tbody>
