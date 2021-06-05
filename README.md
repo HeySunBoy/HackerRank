@@ -179,5 +179,16 @@ Hope I will done it.
 				實作Linked List
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a target="_blank" href="https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem">Day 16: Exceptions - String to Integer</a>
+			</td>
+			<td>
+				<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%2016%20-%20Exceptions%20-%20String%20to%20Integer">程式碼</a>
+			</td>
+			<td>
+				例外處理(try catch)
+			</td>
+		</tr>
 	</tbody>
 </table>
