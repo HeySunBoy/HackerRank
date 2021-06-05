@@ -190,5 +190,16 @@ Hope I will done it.
 				例外處理(try catch)
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a target="_blank" href="https://www.hackerrank.com/challenges/30-more-exceptions/problem">Day 17: More Exceptions</a>
+			</td>
+			<td>
+				<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%2017%20-%20More%20Exceptions">程式碼</a>
+			</td>
+			<td>
+				例外處理(T) 
+			</td>
+		</tr>
 	</tbody>
 </table>
