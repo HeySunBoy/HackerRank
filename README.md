@@ -198,7 +198,7 @@ Hope I will done it.
 				<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%2017%20-%20More%20Exceptions">程式碼</a>
 			</td>
 			<td>
-				例外處理(T) 
+				例外處理(Throw) 
 			</td>
 		</tr>
 	</tbody>
