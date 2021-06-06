@@ -201,5 +201,16 @@ Hope I will done it.
 				例外處理(Throw) 
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a target="_blank" href="https://www.hackerrank.com/challenges/30-queues-stacks/problem">Day 18: Queues and Stacks</a>
+			</td>
+			<td>
+				<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%2018%20-%20Queues%20and%20Stacks">程式碼</a>
+			</td>
+			<td>
+				Stack(後進先出)、Queue(先進先出)
+			</td>
+		</tr>
 	</tbody>
 </table>
