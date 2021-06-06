@@ -212,5 +212,16 @@ Hope I will done it.
 				Stack(後進先出)、Queue(先進先出)
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a target="_blank" href="https://www.hackerrank.com/challenges/30-interfaces/problem">Day 19: Interfaces</a>
+			</td>
+			<td>
+				<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%2019%20-%20Interfaces">程式碼</a>
+			</td>
+			<td>
+				Interface(介面)
+			</td>
+		</tr>
 	</tbody>
 </table>
