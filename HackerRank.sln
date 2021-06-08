@@ -43,7 +43,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 18 - Queues and Stacks"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 19 - Interfaces", "Day 19 - Interfaces\Day 19 - Interfaces.csproj", "{3A299ECC-6C05-45E9-AF7A-2FC795748165}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 20 - Sorting", "Day 20 - Sorting\Day 20 - Sorting.csproj", "{B2A266A1-0B7C-4C9B-8002-21CB364A255F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 20 - Sorting", "Day 20 - Sorting\Day 20 - Sorting.csproj", "{B2A266A1-0B7C-4C9B-8002-21CB364A255F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 21 - Generics", "Day 21 - Generics\Day 21 - Generics.csproj", "{515D2749-FADC-4400-B69D-077BE8D6AA32}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{B2A266A1-0B7C-4C9B-8002-21CB364A255F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2A266A1-0B7C-4C9B-8002-21CB364A255F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2A266A1-0B7C-4C9B-8002-21CB364A255F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{515D2749-FADC-4400-B69D-077BE8D6AA32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{515D2749-FADC-4400-B69D-077BE8D6AA32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{515D2749-FADC-4400-B69D-077BE8D6AA32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{515D2749-FADC-4400-B69D-077BE8D6AA32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
