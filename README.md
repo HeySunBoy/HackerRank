@@ -245,5 +245,16 @@ Hope I will done it.
 				Generics(泛型)
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a target="_blank" href="https://www.hackerrank.com/challenges/30-binary-search-trees/problem">Day 22: Binary Search Trees</a>
+			</td>
+			<td>
+				<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%2022%20-%20Binary%20Search%20Trees">程式碼</a>
+			</td>
+			<td>
+				(Binary Search Trees)二元搜尋樹,使用深度優先作答
+			</td>
+		</tr>
 	</tbody>
 </table>
