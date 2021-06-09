@@ -234,5 +234,16 @@ Hope I will done it.
 				Bubble Sort(氣泡排序)
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a target="_blank" href="https://www.hackerrank.com/challenges/30-generics/problem">Day 21: Generics</a>
+			</td>
+			<td>
+				<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%2021%20-%20Generics">程式碼</a>
+			</td>
+			<td>
+				Generics(泛型)
+			</td>
+		</tr>
 	</tbody>
 </table>
