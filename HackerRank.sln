@@ -45,7 +45,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 19 - Interfaces", "Day 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 20 - Sorting", "Day 20 - Sorting\Day 20 - Sorting.csproj", "{B2A266A1-0B7C-4C9B-8002-21CB364A255F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 21 - Generics", "Day 21 - Generics\Day 21 - Generics.csproj", "{515D2749-FADC-4400-B69D-077BE8D6AA32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 21 - Generics", "Day 21 - Generics\Day 21 - Generics.csproj", "{515D2749-FADC-4400-B69D-077BE8D6AA32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 22 - Binary Search Trees", "Day 22 - Binary Search Trees\Day 22 - Binary Search Trees.csproj", "{6BCD5001-2ECF-473B-BF98-BCE8C4BA54D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{515D2749-FADC-4400-B69D-077BE8D6AA32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{515D2749-FADC-4400-B69D-077BE8D6AA32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{515D2749-FADC-4400-B69D-077BE8D6AA32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BCD5001-2ECF-473B-BF98-BCE8C4BA54D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BCD5001-2ECF-473B-BF98-BCE8C4BA54D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BCD5001-2ECF-473B-BF98-BCE8C4BA54D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BCD5001-2ECF-473B-BF98-BCE8C4BA54D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
