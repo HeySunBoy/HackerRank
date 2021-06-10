@@ -253,7 +253,20 @@ Hope I will done it.
 				<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%2022%20-%20Binary%20Search%20Trees">程式碼</a>
 			</td>
 			<td>
-				(Binary Search Trees)二元搜尋樹,使用深度優先作答
+				(Binary Search Trees)二元搜尋樹,使用深度優先(DFS)作答
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a target="_blank" href="https://www.hackerrank.com/challenges/30-binary-trees/problem">Day 23: BST Level-Order Traversal
+
+</a>
+			</td>
+			<td>
+				<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%2023%20-%20BST%20Level-Order%20Traversal">程式碼</a>
+			</td>
+			<td>
+				(Binary Search Trees)二元搜尋樹,使用廣度優先(BFS)作答
 			</td>
 		</tr>
 	</tbody>
