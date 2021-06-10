@@ -47,7 +47,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 20 - Sorting", "Day 20 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 21 - Generics", "Day 21 - Generics\Day 21 - Generics.csproj", "{515D2749-FADC-4400-B69D-077BE8D6AA32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 22 - Binary Search Trees", "Day 22 - Binary Search Trees\Day 22 - Binary Search Trees.csproj", "{6BCD5001-2ECF-473B-BF98-BCE8C4BA54D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 22 - Binary Search Trees", "Day 22 - Binary Search Trees\Day 22 - Binary Search Trees.csproj", "{6BCD5001-2ECF-473B-BF98-BCE8C4BA54D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 23 - BST Level-Order Traversal", "Day 23 - BST Level-Order Traversal\Day 23 - BST Level-Order Traversal.csproj", "{7BD608D9-D6BC-4CB8-BE4B-B4091B960156}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{6BCD5001-2ECF-473B-BF98-BCE8C4BA54D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BCD5001-2ECF-473B-BF98-BCE8C4BA54D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BCD5001-2ECF-473B-BF98-BCE8C4BA54D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BD608D9-D6BC-4CB8-BE4B-B4091B960156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BD608D9-D6BC-4CB8-BE4B-B4091B960156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BD608D9-D6BC-4CB8-BE4B-B4091B960156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BD608D9-D6BC-4CB8-BE4B-B4091B960156}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
