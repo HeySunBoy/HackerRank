@@ -278,5 +278,16 @@ Hope I will done it.
 				從已排序的 Linked List 中刪除有重複值的節點
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a target="_blank" href="https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem">Day 25: Running Time and Complexity</a>
+			</td>
+			<td>
+				<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%2025%20-%20Running%20Time%20and%20Complexity">程式碼</a>
+			</td>
+			<td>
+				質數判斷
+			</td>
+		</tr>
 	</tbody>
 </table>
