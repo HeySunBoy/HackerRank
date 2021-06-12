@@ -258,15 +258,24 @@ Hope I will done it.
 		</tr>
 		<tr>
 			<td>
-				<a target="_blank" href="https://www.hackerrank.com/challenges/30-binary-trees/problem">Day 23: BST Level-Order Traversal
-
-</a>
+				<a target="_blank" href="https://www.hackerrank.com/challenges/30-binary-trees/problem">Day 23: BST Level-Order Traversal</a>
 			</td>
 			<td>
 				<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%2023%20-%20BST%20Level-Order%20Traversal">程式碼</a>
 			</td>
 			<td>
 				(Binary Search Trees)二元搜尋樹,使用廣度優先(BFS)作答
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a target="_blank" href="https://www.hackerrank.com/challenges/30-linked-list-deletion/problem">Day 24: More Linked Lists</a>
+			</td>
+			<td>
+				<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%2024%20-%20More%20Linked%20Lists">程式碼</a>
+			</td>
+			<td>
+				從已排序的 Linked List 中刪除有重複值的節點
 			</td>
 		</tr>
 	</tbody>
