@@ -21,14 +21,17 @@ class Solution
         {
             return null;
         }
-        head.next = removeDuplicates(head.next);
-        if (head.next == null)
+        Node node = head;
+        while(node.next != null)
         {
-            return head;
-        }
-        if (head.data == head.next.data)
-        {
-            head.next = head.next.next;
+            if (node.data == node.next.data)
+            {
+                node.next = (node.next).next;
+            }
+            else
+            {
+                node = node.next;
+            }
         }
         return head;
     }
