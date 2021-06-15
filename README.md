@@ -289,5 +289,16 @@ Hope I will done it.
 				質數判斷
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a target="_blank" href="https://www.hackerrank.com/challenges/30-nested-logic/problem">Day 26: Nested Logic</a>
+			</td>
+			<td>
+				<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%2026%20-%20Nested%20Logic">程式碼</a>
+			</td>
+			<td>
+				邏輯Scenario
+			</td>
+		</tr>
 	</tbody>
 </table>
