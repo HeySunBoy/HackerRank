@@ -330,7 +330,7 @@ Hope I will done it.
 				<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%2029%20-%20Bitwise%20AND">程式碼</a>
 			</td>
 			<td>
-				regex正規表示式
+				邏輯運算、位元運算
 			</td>
 		</tr>
 	</tbody>
