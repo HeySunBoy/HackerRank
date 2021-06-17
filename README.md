@@ -322,5 +322,16 @@ Hope I will done it.
 				regex正規表示式
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a target="_blank" href="https://www.hackerrank.com/challenges/30-bitwise-and/problem">Day 29: Bitwise AND</a>
+			</td>
+			<td>
+				<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%2029%20-%20Bitwise%20AND">程式碼</a>
+			</td>
+			<td>
+				regex正規表示式
+			</td>
+		</tr>
 	</tbody>
 </table>
