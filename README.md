@@ -300,5 +300,27 @@ Hope I will done it.
 				邏輯Scenario
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a target="_blank" href="https://www.hackerrank.com/challenges/30-testing/problem">Day 27: Testing</a>
+			</td>
+			<td>
+				<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%2027%20-%20Testing">程式碼</a>
+			</td>
+			<td>
+				unit testing(單元測試)(使用Java)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a target="_blank" href="https://www.hackerrank.com/challenges/30-regex-patterns/problem">Day 28: RegEx, Patterns, and Intro to Databases</a>
+			</td>
+			<td>
+				<a target="_blank" href="https://github.com/HeySunBoy/HackerRank/tree/main/Day%2028%20-%20RegEx%2C%20Patterns%2C%20and%20Intro%20to%20Databases">程式碼</a>
+			</td>
+			<td>
+				regex正規表示式
+			</td>
+		</tr>
 	</tbody>
 </table>
