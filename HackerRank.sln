@@ -57,7 +57,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 25 - Running Time and C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 26 - Nested Logic", "Day 26 - Nested Logic\Day 26 - Nested Logic.csproj", "{6BB33A9D-9AA6-444B-9DA4-DE36A1EA9A19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 28 - RegEx, Patterns, and Intro to Databases", "Day 28 - RegEx, Patterns, and Intro to Databases\Day 28 - RegEx, Patterns, and Intro to Databases.csproj", "{FF2F3F27-657C-43C2-BB21-4A26DD477FA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 28 - RegEx, Patterns, and Intro to Databases", "Day 28 - RegEx, Patterns, and Intro to Databases\Day 28 - RegEx, Patterns, and Intro to Databases.csproj", "{FF2F3F27-657C-43C2-BB21-4A26DD477FA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 29 - Bitwise AND", "Day 29 - Bitwise AND\Day 29 - Bitwise AND.csproj", "{4C5DF4FE-7821-4C23-8F73-ABB2C266ACFD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +179,10 @@ Global
 		{FF2F3F27-657C-43C2-BB21-4A26DD477FA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF2F3F27-657C-43C2-BB21-4A26DD477FA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF2F3F27-657C-43C2-BB21-4A26DD477FA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C5DF4FE-7821-4C23-8F73-ABB2C266ACFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C5DF4FE-7821-4C23-8F73-ABB2C266ACFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C5DF4FE-7821-4C23-8F73-ABB2C266ACFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C5DF4FE-7821-4C23-8F73-ABB2C266ACFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
